@@ -1,0 +1,76 @@
+<svg height="660.0" width="1000.0" version="4.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<defs><style>@import url("https://fonts.googleapis.com/css?family=Roboto");</style></defs>
+<rect x="0.0" y="0.0" width="1000.0" height="660.0" style="fill:rgb(255.0,255.0,255.0);stroke-width:0;stroke:rgb(0,0,0);opacity:1.0" />
+<line x1="137.45" y1="583.0" x2="137.45" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="222.35" y1="583.0" x2="222.35" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="307.25" y1="583.0" x2="307.25" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="392.15" y1="583.0" x2="392.15" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="477.05" y1="583.0" x2="477.05" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="561.94995" y1="583.0" x2="561.94995" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="646.85" y1="583.0" x2="646.85" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="731.75" y1="583.0" x2="731.75" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="816.65" y1="583.0" x2="816.65" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="901.55005" y1="583.0" x2="901.55005" y2="54.0" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="556.5502" x2="944.0" y2="556.5502" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="484.90515" x2="944.0" y2="484.90515" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="413.26016" x2="944.0" y2="413.26016" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="341.61517" x2="944.0" y2="341.61517" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="269.97018" x2="944.0" y2="269.97018" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="198.3252" x2="944.0" y2="198.3252" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="126.680176" x2="944.0" y2="126.680176" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<line x1="95.0" y1="55.035217" x2="944.0" y2="55.035217" style="stroke:rgb(127.5,127.5,127.5);stroke-width:0.5;opacity:1.0;stroke-linecap:butt" />
+<rect x="94.0" y="53.0" width="851.0" height="531.0" style="fill:rgb(255,255,255);stroke-width:2.0;stroke:rgb(0.0,0.0,0.0);opacity:1;fill-opacity:0;" />
+<line x1="137.45" y1="585.0" x2="137.45" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="119.55" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,119.55,609.0)">1.0</text>
+<line x1="222.35" y1="585.0" x2="222.35" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="203.97" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,203.97,609.0)">2.0</text>
+<line x1="307.25" y1="585.0" x2="307.25" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="288.87" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,288.87,609.0)">3.0</text>
+<line x1="392.15" y1="585.0" x2="392.15" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="373.77" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,373.77,609.0)">4.0</text>
+<line x1="477.05" y1="585.0" x2="477.05" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="458.66998" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,458.66998,609.0)">5.0</text>
+<line x1="561.94995" y1="585.0" x2="561.94995" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="543.56995" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,543.56995,609.0)">6.0</text>
+<line x1="646.85" y1="585.0" x2="646.85" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="628.47" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,628.47,609.0)">7.0</text>
+<line x1="731.75" y1="585.0" x2="731.75" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="713.37" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,713.37,609.0)">8.0</text>
+<line x1="816.65" y1="585.0" x2="816.65" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="798.27" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,798.27,609.0)">9.0</text>
+<line x1="901.55005" y1="585.0" x2="901.55005" y2="591.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="881.49005" y="609.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,881.49005,609.0)">10.0</text>
+<line x1="87.0" y1="556.5502" x2="93.0" y2="556.5502" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="46.24" y="562.5502" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,46.24,562.5502)">0.0</text>
+<line x1="87.0" y1="484.90515" x2="93.0" y2="484.90515" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="490.90515" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,490.90515)">1000000.0</text>
+<line x1="87.0" y1="413.26016" x2="93.0" y2="413.26016" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="419.26016" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,419.26016)">1999999.8</text>
+<line x1="87.0" y1="341.61517" x2="93.0" y2="341.61517" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="347.61517" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,347.61517)">2999999.8</text>
+<line x1="87.0" y1="269.97018" x2="93.0" y2="269.97018" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="275.97018" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,275.97018)">3999999.5</text>
+<line x1="87.0" y1="198.3252" x2="93.0" y2="198.3252" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="204.3252" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,204.3252)">4999999.5</text>
+<line x1="87.0" y1="126.680176" x2="93.0" y2="126.680176" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="132.68018" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,132.68018)">5999999.5</text>
+<line x1="87.0" y1="55.035217" x2="93.0" y2="55.035217" style="stroke:rgb(0.0,0.0,0.0);stroke-width:2.0;opacity:1.0;stroke-linecap:butt" />
+<text font-size="12.0" font-family="Roboto" x="43.0" y="61.035217" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.175;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,43.0,61.035217)">6999999.0</text>
+<polyline points="137.45,556.54974 222.35,556.5497 307.25,556.54944 392.15,556.5491 477.05,556.5487 561.94995,556.54816 646.85,556.5475 731.75,556.5472 816.64996,556.5463 901.55,556.5458" style="stroke:rgb(0.0,0.0,255.0);stroke-width:3.0;opacity:1.0;stroke-linecap:butt;fill:none;" />
+<polyline points="137.45,556.55 222.35,556.5494 307.25,556.5461 392.15,556.5315 477.05,556.45514 561.94995,556.03827 646.85,553.6658 731.75,541.0654 816.64996,468.9292 901.55,80.44995" style="stroke:rgb(255.0,214.2,0.0);stroke-width:3.0;opacity:1.0;stroke-linecap:butt;fill:none;" />
+<polyline points="137.45,556.55 222.35,556.5496 307.25,556.5489 392.15,556.54767 477.05,556.54584 561.94995,556.54333 646.85,556.54016 731.75,556.53613 816.64996,556.5316 901.55,556.526" style="stroke:rgb(255.0,0.0,0.0);stroke-width:3.0;opacity:1.0;stroke-linecap:butt;fill:none;" />
+<polyline points="137.45,556.5499 222.35,556.5498 307.25,556.5496 392.15,556.5493 477.05,556.5491 561.94995,556.5487 646.85,556.5483 731.75,556.548 816.64996,556.5475 901.55,556.5468" style="stroke:rgb(0.0,127.5,0.0);stroke-width:3.0;opacity:1.0;stroke-linecap:butt;fill:none;" />
+<text font-size="20.0" font-family="Roboto" x="461.6" y="36.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,461.6,36.0)">SINGLE SERIES</text>
+<text font-size="15.0" font-family="Roboto" x="489.675" y="646.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,489.675,646.0)">Length</text>
+<text font-size="15.0" font-family="Roboto" x="31.0" y="348.7" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-90.0,31.0,348.7)">Time, µs</text>
+<rect x="115.0" y="74.0" width="215.3" height="90.0" style="fill:rgb(255.0,255.0,255.0);stroke-width:2.0;stroke:rgb(0.0,0.0,0.0);opacity:0.7" />
+<rect x="125.0" y="84.0" width="10.0" height="10.0" style="fill:rgb(0.0,0.0,255.0);stroke-width:0;stroke:rgb(0,0,0);opacity:1.0" />
+<text font-size="10.0" font-family="Roboto" x="145.0" y="94.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,145.0,94.0)">nonRecursiveDamerauLevenshteinDistance</text>
+<rect x="125.0" y="104.0" width="10.0" height="10.0" style="fill:rgb(255.0,214.2,0.0);stroke-width:0;stroke:rgb(0,0,0);opacity:1.0" />
+<text font-size="10.0" font-family="Roboto" x="145.0" y="114.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,145.0,114.0)">recursiveDamerauLevenshteinDistance</text>
+<rect x="125.0" y="124.0" width="10.0" height="10.0" style="fill:rgb(255.0,0.0,0.0);stroke-width:0;stroke:rgb(0,0,0);opacity:1.0" />
+<text font-size="10.0" font-family="Roboto" x="145.0" y="134.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,145.0,134.0)">recursiveCacheDamerauLevenshteinDistance</text>
+<rect x="125.0" y="144.0" width="10.0" height="10.0" style="fill:rgb(0.0,127.5,0.0);stroke-width:0;stroke:rgb(0,0,0);opacity:1.0" />
+<text font-size="10.0" font-family="Roboto" x="145.0" y="154.0" style="stroke:rgb(0.0,0.0,0.0);stroke-width:0.3;fill:rgb(0.0,0.0,0.0);opacity:1.0;" transform="rotate(-0.0,145.0,154.0)">nonRecursiveLevenshteinDistance</text>
+</svg>

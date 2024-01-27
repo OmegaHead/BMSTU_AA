@@ -1,0 +1,15 @@
+.DS_Store
+*.aux
+*.log
+*.out
+*.bbl
+*.toc
+*.gz
+*.debug
+*.yaml
+*.json
+**/.build/*
+*.resolved
+*.xcworkspacedata
+*.plist
+*.xcuserstate

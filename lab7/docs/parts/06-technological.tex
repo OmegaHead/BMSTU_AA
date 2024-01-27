@@ -1,0 +1,58 @@
+\chapter{Технологическая часть}
+
+В данной главе описаны средства реализации, приведены листинги кода и функциональные тесты.
+
+\section{Средства реализации}
+
+Для разработки данной лабораторной работы был выбран язык программирования Swift \cite{swift}. 
+Этот выбор обусловлен возможностью измерения процессорного времени \cite{cpu-time-measure} и соответствием с выдвинутыми техническими требованиями, описанными в пункте 2.2.
+
+Измерение времени выполнения алгоритмов производится с использованием функции \textit{clock\_gettime()} \cite{cpu-time-measure}.
+\section{Сведения о модулях программы}
+
+Программа разбита на следующие модули:
+
+\begin{itemize}
+	\item \texttt{main.swift} --- точка входа в программу, где происходит вызов алгоритмов через интерфейс;
+	\item \texttt{Algorithms.swift} --- содержит реализации алгоритмов поиска подстроки в строке (стандартного алгоритма и алгоритма Бойера~---~Мура);
+	\item \texttt{CPUTimeMeasure.swift} --- измеряет время работы алгоритмов с учетом заданного количества повторений;
+	\item \texttt{GraphRenderer.swift} --- строит графики для каждого из алгоритмов с учетом заданного количества повторений для каждого алгоритма.
+\end{itemize}
+
+\section{Реализация алгоритмов}
+
+В листингах \ref{lst:standart} -- \ref{lst:boyermoor} приведены реализации алгоритмов поиска подстроки в строке (стандартного алгоритма и алгоритма Бойера~---~Мура).
+
+\clearpage
+
+\lstinputlisting[label=lst:standart,caption=Реализация стандартного алгоритма, firstline=12,lastline=31]{../src/AA7/Sources/AA7/Algorithms.swift}
+\lstinputlisting[label=lst:boyermoor,caption=Реализация алгоритма Бойера~---~Мура (Часть 1), firstline=33,lastline=48]{../src/AA7/Sources/AA7/Algorithms.swift}
+\lstinputlisting[label=lst:boyermoor,caption=Реализация алгоритма Бойера~---~Мура (Часть 2), firstline=49,lastline=83]{../src/AA7/Sources/AA7/Algorithms.swift}
+\lstinputlisting[label=lst:boyermoor,caption=Реализация алгоритма Бойера~---~Мура (Часть 3), firstline=84,lastline=92]{../src/AA7/Sources/AA7/Algorithms.swift}
+
+\section{Функциональные тесты}
+
+В таблице приведены функциональные тесты для алгоритмов поиска подстроки в строке. Ожидаемый результат -- массив индексов вхождений подстроки в строку.
+Все тесты были успешно пройдены.
+
+\clearpage
+
+\begin{table}
+	\caption{Тесты алгоритмов поиска подстроки в строке}
+	\begin{center}
+	\begin{tabular}[c]{|c|c|c|}
+		\hline
+		Подстрока & Строка & Ожидаемый результат \\
+		\hline
+		ab & aaaababab & [3, 5, 7] \\\hline
+		ab & aaacaaca & [ ] \\\hline
+		aaaabab & ab & [ ] \\\hline
+		aaaaabbbbb & aaaaabbbbb & [ 0 ] \\\hline
+
+	\end{tabular}
+\end{center}
+	\end{table}
+
+\section*{Вывод}
+
+В данной главе были описаны средства реализации, приведены листинги кода алгоритмов и функциональные тесты, подтверждающие корректность работы алгоритмов.

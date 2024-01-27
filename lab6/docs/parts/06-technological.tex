@@ -1,0 +1,94 @@
+\chapter{Технологическая часть}
+
+В данной главе описаны средства реализации, приведены листинги кода и функциональные тесты.
+
+\section{Средства реализации}
+
+Для разработки данной лабораторной работы был выбран язык программирования Swift \cite{swift}. 
+Этот выбор обусловлен возможностью измерения процессорного времени \cite{cpu-time-measure} и соответствием с выдвинутыми техническими требованиям.
+
+Измерение времени выполнения алгоритмов производится с использованием функции \textit{clock\_gettime()} \cite{cpu-time-measure}.
+\clearpage
+\section{Сведения о модулях программы}
+
+Программа разбита на следующие модули:
+
+\begin{itemize}
+	\item \texttt{main.swift} --- точка входа в программу, где происходит вызов алгоритмов через интерфейс;
+	\item \texttt{Algorithms.swift} --- содержит реализации методов решения задачи коммивояжёра (полным перебором и с использованием муравьиного алгоритма);
+	\item \texttt{CPUTimeMeasure.swift} --- измеряет время работы алгоритмов с учетом заданного количества повторений;
+	\item \texttt{GraphRenderer.swift} --- Строит графики для каждого из алгоритмов с учетом заданного количества повторений для каждого алгоритма;
+\end{itemize}
+
+\section{Реализация алгоритмов}
+
+В листингах \ref{lst:bruteforce} -- \ref{lst:updatePheromones} приведены реализации методов решения задачи коммивояжёра: полным перебором (листинги \ref{lst:bruteforce} -- \ref{lst:next_permutation}) и с использованием муравьиного алгоритма (листинги \ref{lst:ant} -- \ref{lst:updatePheromones}).
+
+В листинге \ref{lst:input} приведена реализация ввода матрицы.
+
+\clearpage
+
+\lstinputlisting[label=lst:bruteforce,caption=Полный перебор, firstline=20,lastline=36]{../src/AA6/Sources/AA6/Algorithms.swift}
+\lstinputlisting[label=lst:calculatePathDistance,caption=Функция вычисления длины маршрута, firstline=38,lastline=45]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+\lstinputlisting[label=lst:next_permutation,caption=Функция получения нового маршрута, firstline=48,lastline=75]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+
+\lstinputlisting[label=lst:ant,caption=Муравьиный алгоритм, firstline=119,lastline=153]{../src/AA6/Sources/AA6/Algorithms.swift}
+\lstinputlisting[label=lst:generateAntPath,caption=Функция построения пути муравья, firstline=155,lastline=172]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+\lstinputlisting[label=lst:selectNextCity,caption=Функция выбора следующего города, firstline=174,lastline=205]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+\lstinputlisting[label=lst:depositPheromone,caption=Функция работы с элитным муравьем, firstline=216,lastline=253]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+\lstinputlisting[label=lst:updatePheromones,caption=Функция обновления феромонов, firstline=225,lastline=238]{../src/AA6/Sources/AA6/Algorithms.swift}
+\clearpage
+\lstinputlisting[label=lst:input,caption=Функция ввода матрицы, firstline=8,lastline=34]{../src/AA6/Sources/AA6/main.swift}
+
+
+\section{Функциональные тесты}
+
+В таблице приведены функциональные тесты для методов решения задачи коммивояжёра. 
+Все тесты были успешно пройдены.
+
+\clearpage
+
+
+\begin{table}
+	\caption{Тесты для умножения матриц}
+	\begin{center}
+	\begin{tabular}[c]{|c|c|}
+		\hline
+		Матрица смежности & Ожидаемый результат \\
+		\hline
+		$ \begin{pmatrix}
+			0 &  4 &  2 &  1 & 7 \\
+			4 &  0 &  3 &  7 & 2 \\
+			2 &  3 &  0 & 10 & 3 \\
+			1 &  7 & 10 &  0 & 9 \\
+			7 &  2 &  3 &  9 & 0
+		\end{pmatrix}$ &
+		15, [0, 2, 4, 1, 3, 0] \\
+		
+		$ \begin{pmatrix}
+			0 & 1 & 2 \\
+			1 & 0 & 1 \\
+			2 & 1 & 0	
+		\end{pmatrix}$ &
+		4, [0, 1, 2, 0] \\
+		
+		$ \begin{pmatrix}
+			0 & 15 & 19 & 20 \\
+			15 &  0 & 12 & 13 \\
+			19 & 12 &  0 & 17 \\
+			20 & 13 & 17 &  0
+		\end{pmatrix}$ &
+		64, [0, 1, 2, 3, 0] \\
+		\hline
+	\end{tabular}
+\end{center}
+	\end{table}
+
+\section*{Вывод}
+
+В данной главе были представлены требования к программному обеспечению, описаны средства реализации, приведены листинги кода алгоритмов и функциональные тесты, подтверждающие корректность работы алгоритмов.
